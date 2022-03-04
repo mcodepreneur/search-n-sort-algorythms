@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class Sort here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Sort
 {
     public static void selectionSort(int[] arr)
